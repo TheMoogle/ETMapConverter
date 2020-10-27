@@ -1,3 +1,3 @@
 # ETMapConverter
 
-Not Finised: Light
+There May be some rooms missing
